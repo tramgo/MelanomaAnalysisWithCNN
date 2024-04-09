@@ -46,7 +46,7 @@ Paths are defined for the training and test images. The dataset is sorted accord
 
 ## Model Building & Training (Post-Class Imbalance Adjustment)
 
-- A CNN model is created and trained for ~30 epochs on the balanced dataset.
+- A CNN model is created and trained for additional epochs on the balanced dataset.
 - The model fit is evaluated to see if class imbalance issues have been resolved.
 
 Each stage requires key accomplishments, such as setting up the data, creating and evaluating models, and addressing issues like overfitting and class imbalances.
